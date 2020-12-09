@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <p><a href="index.html">Home</a></p>
+<p><a href="projects.html">Projects</a></p>
+<h2>Stephen King</h2>
+<table>
+  <tr>
+<td><img src="Images/MeInGarden6JubileeStPerth.png" alt="Stephen in Perth WA" width=40%></td>
+<td><p>Professor of mischief at the school of Knocks, Glesga toon</p></td>
+</tr>
+</table>
+<hr>
+<h3>Books and Writings</h3>
+<ul><li>Sprogs</li>
+<li>No More Long Faces
+  <p>Pandemelonium</p>
+</ul>
+<hr>
+<h2>Education</h2>
+<p>Springburn College</p>
+Strathclyde University
+<hr>
+<h2>Hobbies</h2>
+<ol>
+  <li>Genealogy</li>
+  <li>Restoration
+</ol>
+<a href="http://familyhistoryglasgow.com" target="_blank"> Stephen's Family Research Website</a>
+  </body>
+</html>
